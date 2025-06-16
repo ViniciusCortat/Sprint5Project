@@ -8,9 +8,7 @@ Criar do zero uma aplicação que deve utilizar recursos como streamlit e plotly
 
 ## Funcionalidades
 
-Histograma da base de dados de veículos
-Gráfico de dispersão para a base de dados de veículos
-Uso de checkbox
+Histograma da base de dados de veículos e Gráfico de dispersão para a base de dados de veículos
 
 ## URL para Acesso
 
